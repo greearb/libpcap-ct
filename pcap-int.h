@@ -70,6 +70,8 @@
   #endif
 #endif
 
+typedef uint32_t u32;
+
 /*
  * Version string.
  * Uses PACKAGE_VERSION from config.h.
